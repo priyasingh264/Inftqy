@@ -17,6 +17,7 @@ Link :- https://infytq.onwingspan.com/en/app/toc/lex_auth_0125409616243425281061
 Link :- https://infytq.onwingspan.com/en/app/toc/lex_auth_0125409616243425281061_shared/contents
 
 # Aptitude :- 
-Percentages :- Examples/Quiz and Test
+Percentages :- Examples/Quiz and Test 
+Link :- https://www.tutorialspoint.com/quantitative_aptitude/aptitude_percentages.htm
 
  
