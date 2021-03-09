@@ -6,6 +6,7 @@
  3. Videos on introduction to DBMS, keys and ER diagram
  4. Practice problems: introduction to DBMS
  5. Assignmet: DBMS Basics
+ 
 Link :- https://infytq.onwingspan.com/en/app/toc/lex_auth_0125409616243425281061_shared/contents
 
 # Programing Fundamentals Using Python - Part 1
@@ -14,6 +15,7 @@ Link :- https://infytq.onwingspan.com/en/app/toc/lex_auth_0125409616243425281061
  3. Basic of Algorithm And Pseudo code
  4. Variables, Datatypes & Operators in Python
  5. Coding Standards & Formatting Output
+ 
 Link :- https://infytq.onwingspan.com/en/app/toc/lex_auth_0125409616243425281061_shared/contents
 
 # Aptitude :- 
